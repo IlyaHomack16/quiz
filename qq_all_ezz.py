@@ -12,7 +12,7 @@ def press_command():
     lbl2 = tkinter.Label(windows, text="1 вопрос", height=1, width=11, background="#70ff57", foreground="#5e8fff",
                          font=("", 20))
     lbl2.place(x=65, y=140)
-    lbl3 = tkinter.Label(windows, text="", height=1, width=11, background="#70ff57", foreground="#5e8fff",
+    lbl3 = tkinter.Label(windows, text=" ", height=1, width=11, background="#70ff57", foreground="#5e8fff",
                          font=("", 20))
     lbl3.place(x=60, y=50)
 
